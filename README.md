@@ -42,8 +42,10 @@ stable editing surface independent of site releases.
 
 ### Stack
 
-Next.js · React · TypeScript · Tailwind · Sanity · Vercel · Node · Python
-Claude Code · Codex · MCP servers · BullMQ · REST APIs · ffmpeg
-GA4 · Google Search Console · Semrush · Google Ads
+**Web** — Next.js · React · TypeScript · Tailwind · Sanity · Vercel · Node · Python
+
+**AI & automation** — Claude Code · Codex · MCP servers · BullMQ · REST APIs · ffmpeg
+
+**Analytics** — GA4 · Google Search Console · Semrush · Google Ads
 
 📍 Minneapolis, MN · Open to remote roles · toryradtke@gmail.com
